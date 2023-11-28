@@ -22,8 +22,8 @@ Shows the player how levels of learning blackjack is fun.
 
 ### Card values
 - An ace is worth 1 or 11. 
-- Face cards are 10
-- Any other card is its num value.
+- Any face cards are worth 10.
+- Any other card is it's rank value.
 
 ### Game key terms
 - Hit: To 'Hit' is to ask for another card. 
