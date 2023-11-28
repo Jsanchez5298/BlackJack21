@@ -5,16 +5,6 @@
 A command-line based download using Python implementing Object Oriented Programming.
 The game runs slow so overtapping on the buttons is not recomendded.
 
-### Installing BlackJack21
-
---> git clone https://github.com/Jsanchez5298/BlackJack21.git
-
---> Create a virtual env
-
---> import pygame
-
---> In command-line run python main.py and enjoy!
-
 
 ### Objective of the game
 The player attempts to beat the dealer by getting a count as close to 21 as possible, without going over 21.
